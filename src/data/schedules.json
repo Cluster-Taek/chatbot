@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "userName": "JohnDoe",
+    "interviewDate": "2024-07-20T10:00:00Z",
+    "details": "1차 기술 면접"
+  },
+  {
+    "id": 2,
+    "userName": "JaneSmith",
+    "interviewDate": "2024-07-21T14:30:00Z",
+    "details": "2차 임원 면접"
+  },
+  {
+    "id": 3,
+    "userName": "PeterJones",
+    "interviewDate": "2024-07-22T11:00:00Z",
+    "details": "프론트엔드 개발자 포지션 면접"
+  },
+  {
+    "id": 4,
+    "userName": "JohnDoe",
+    "interviewDate": "2024-07-25T16:00:00Z",
+    "details": "2차 문화 적합성 면접"
+  }
+] 
